@@ -2,7 +2,7 @@
 
 - 💻 Hoje trabalho com back-end
 - 📖 Estudando Typescript
-- 👯 I’m looking to collaborate on projeto colmena - DK AKADEMIE
+- 👯 I’m looking to collaborate on projeto colmena - DK AKADEMIE - Alemanhã.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
